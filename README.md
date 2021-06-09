@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A Kata is a Japanese word meaning “form”, and in the martial arts it describes a choreographed pattern of movements used to train yourself to the level of muscle memory. We use this Kata to check your form and style while creating a Javascript Web Component.
+A Kata is a Japanese word meaning “form”, and in the martial arts it describes a choreographed pattern of movements used to train yourself to the level of muscle memory. We use this Kata to check your form and style while creating a JS Web Component.
 
 For this Kata, imagine our Design team would like you to create a simple error dialog called a message dialog `<custom-message-dialog>`.
 
@@ -14,7 +14,7 @@ This is an example of a legacy jQuery-based component we use in production.  The
 
 ## Goal
 
-Your goal is to write the necessary HTML, CSS and JavaScript to replicate this legacy component.  The Infor Design System (IDS) is moving towards a WebComponent-based system. We would like you port the basic functionality of this Message Dialog into a web component, using a custom element as its base. 
+Your goal is to write the necessary HTML, CSS and JS to replicate this legacy component.  The Infor Design System (IDS) is moving towards a WebComponent-based system. We would like you port the basic functionality of this Message Dialog into a web component, using a custom element as its base. 
 
 The Webcomponent specification is explained in detail at [MDM](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
@@ -42,7 +42,7 @@ When styling the web component take a look at this, these articles can provide y
 1. Understanding of how to construct a Custom Element from scratch
 1. Understanding of the WebComponent lifecycle [as described on MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 1. Attention to detail
-1. Code Style in HTML, Css and JS
+1. Coding in HTML, Css and JS
 1. Decisions about minumum viable product, and what might be provided later as enhancements (for example: Accessibility Considerations / Testing)
 
 ## Delivery Method
