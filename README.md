@@ -29,6 +29,8 @@ Once the message is being displayed we'd like you to offer an option to hide it.
 1. Hitting `ESC` on your keyboard
 2. Clicking on the message button
 
+When styling the web component take a look at this [css tricks article](https://css-tricks.com/styling-a-web-component/) and try and use some of these techniques or even [constructable style sheets](https://developers.google.com/web/updates/2019/02/constructable-stylesheets).
+
 ## Requirements
 
 1. Runs in Chrome only by opening the index.html page
