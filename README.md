@@ -31,14 +31,18 @@ Once the message is being displayed we'd like you to offer an option to hide it.
 
 ## Requirements
 
-1. Runs in Chrome only
-1. Try not using any external dependencies or libraries (in our projects this is a requirement)
-1. The old example uses jQuery, since we are using web components now jQuery should not be used.
-1. Style it as close to the old example as possible (the svg icon is in the images folder)
+1. Runs in Chrome only by opening the index.html page
+1. Try not using any external dependencies or libraries (in our projects this is a requirement excluding test dependencies)
+1. The old example uses jQuery, since we are using web components now jQuery should not be used in your Kata
+1. Style it as close to the old example as possible (the svg icon is available in the images folder)
 
 ## What We Are looking For
 
-1. Code Style and Decisions in HTML, Css and JS
 1. Ability to do it as a web component
 1. Attention to detail
-1. Accessibility Considerations
+1. Code Style in HTML, Css and JS
+1. Decisions and Additions (Accessibility Considerations / Testing / Docs for example)
+
+## Delivery Method
+
+Fork this repo and do a pull request with your working code.
