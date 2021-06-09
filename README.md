@@ -6,17 +6,17 @@ A Kata is a Japanese word meaning “form”, and in the martial arts it describ
 
 For this Kata, imagine our Design team would like you to create a simple error dialog called a message dialog `<custom-message-dialog>`.
 
-This message dialog should appear in the middle of the page when clicking on the `<custom-button>` that reads *Show Error Message*.  The Message dialog should try to follow the design standards and technology standards we set out.
+This message dialog should appear in the middle of the page when clicking on the `<custom-button>` that reads *Show Error Message*.  The Message dialog should try to follow the design standards and technology standards that we set out to maintain daily.
 
 ## Working Example
 
-This is an example of a legacy jQuery-based component we use in production.  The ultimate goal would be to replicate something similar to this example as a Web Component: [Message Dialog Example](https://main-enterprise.demo.design.infor.com/components/message/example-error.html?layout=nofrills)
+The following link provides an example of a legacy jQuery-based component we use in production.  The ultimate goal would be to replicate something similar to this as a Web Component: [Message Dialog Example](https://main-enterprise.demo.design.infor.com/components/message/example-error.html?layout=nofrills)
 
 ## Goal
 
 Your goal is to write the necessary HTML, CSS and JS to replicate this legacy component.  The Infor Design System (IDS) is moving towards a WebComponent-based system. We would like you port the basic functionality of this Message Dialog into a web component, using a custom element as its base. 
 
-The Webcomponent specification is explained in detail at [MDM](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+The WebComponent specification is explained in detail at [MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
 The `<custom-message-dialog>` component appear when clicking on the `<custom-button>`.
 
@@ -42,9 +42,9 @@ When styling the web component take a look at this, these articles can provide y
 1. Understanding of how to construct a Custom Element from scratch
 1. Understanding of the WebComponent lifecycle [as described on MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 1. Attention to detail
-1. Coding in HTML, Css and JS
-1. Decisions about minumum viable product, and what might be provided later as enhancements (for example: Accessibility Considerations / Testing)
+1. Coding Style in HTML, CSS and JS
+1. Decisions about tradeoffs developing a minumum viable product, and what could be provided later as enhancements (for example: Accessibility Considerations / Testing)
 
 ## Delivery Method
 
-Fork this repo and do a pull request with your working code.
+Fork this repo and create a pull request with your working code.
