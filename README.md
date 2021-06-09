@@ -6,7 +6,7 @@ A Kata is a Japanese word meaning “form”, and in the martial arts it describ
 
 For this Kata, imagine our Design team would like you to create a simple error dialog called a message dialog `<custom-message-dialog>`.
 
-This message dialog should appear in the middle of the page when clicking on the `<custom-button>` that reads *Show Message*.  The Message dialog should try to follow the design standards and technology standards we set out.
+This message dialog should appear in the middle of the page when clicking on the `<custom-button>` that reads *Show Error Message*.  The Message dialog should try to follow the design standards and technology standards we set out.
 
 ## Working Example
 
@@ -23,7 +23,7 @@ The `<custom-message-dialog>` component appear when clicking on the `<custom-but
 Once the message is displayed, we'd also like you to offer an option to hide it. Functionally, this can occur two ways:
 
 1. Hitting `ESC` on your keyboard
-1. Clicking on the message button
+1. Clicking on the button in the message dialog
 
 When styling the web component take a look at this, these articles can provide you with some ideas for technique: 
 
